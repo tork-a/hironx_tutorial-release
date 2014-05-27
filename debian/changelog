@@ -1,0 +1,9 @@
+ros-hydro-hironx-tutorial (0.1.1-0raring) raring; urgency=high
+
+  * Remove install target on empty test folder to pass ROS buildfarm.
+  * Add leap_motion.
+  * Contributors: Isaac Saito
+
+ -- Isaac Saito <dev@opensource-robotics.tokyo.jp>  Mon, 26 May 2014 15:00:00 -0000
+
+
